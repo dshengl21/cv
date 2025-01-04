@@ -11,27 +11,26 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Sheng Lien",
   initials: "SL",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "Phladelphia, PA, USA",
+  locationLink: "https://www.google.com/maps/place/Philadelphia",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "Hard worker. Always working, always hard.",
   summary: (
     <>
-      Frontend-focused Full Stack Engineer specializing in high-performance
-      React applications, scalable Node.js services, and real-time collaboration
-      systems. Experienced in technical architecture design and remote team
-      leadership.
+      Cloud infrastructure, data engineering, data visualizations, contractor.
+      Punches, kicks, elbows, knees, spinning back fists, occasionally defends takedowns.
+      Give me money and I will build websites, automated cloud data pipelines, and physically beat your competition.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/C1D11BF9-D41B-4FAE-9FFC-C599E4D26A3C.jpg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "danielshenglien@gmail.com",
+    tel: "+6463770027",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/dshengl21",
         icon: GitHubIcon,
       },
       {
