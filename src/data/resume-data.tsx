@@ -39,11 +39,11 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/sheng-lien/",
         icon: LinkedInIcon,
       },
-      // {
-      //   name: "X",
-      //   url: "https://x.com/BartoszJarocki",
-      //   icon: XIcon,
-      // },
+      {
+        name: "X",
+        url: "https://x.com/dshengl",
+        icon: XIcon,
+      },
     ],
   },
   education: [
@@ -57,12 +57,12 @@ export const RESUME_DATA = {
   work: [
     {
       company: "University of Pennsylvania",
-      // link: "https://film.io",
+      link: "",
       badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
       title: "IT Solutions Contractor",
       logo: ConsultlyLogo,
       start: "2023",
-      end: 2024,
+      end: "2024",
       description: (
         <>
           Delivered IT solutions for the Penn Smart Aviary.
@@ -84,8 +84,8 @@ export const RESUME_DATA = {
       ),
     },
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "PurpleLab",
+      link: "https://purplelab.com",
       badges: [
         "Remote",
         "React",
@@ -94,92 +94,69 @@ export const RESUME_DATA = {
         "GraphQL",
         "Tailwind CSS",
       ],
-      title: "Senior Full Stack Developer",
+      title: "Data Engineer",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2022",
+      end: "2023",
       description: (
         <>
-          Senior developer and squad leader for an enterprise agile meeting
-          platform.
+
           <ul className="list-inside list-disc">
             <li>
-              Built design system with Tailwind CSS, improving development speed
-              and time to market
-            </li>
-            <li>
-              Implemented engineering practices: PR automation, code review
-              guidelines, and workflows
-            </li>
-            <li>
-              Open source contributions to Relay DevTools and React i18n tooling
+            Developed fact tables for nationwide PBMs, payers, and insurance plans, enabling data integration in BigQuery.
             </li>
           </ul>
         </>
       ),
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
+      company: "eCloudvalley",
+      link: "https://www.ecloudvalley.com/en",
       badges: ["Remote", "React", "TypeScript", "Node.js", "Android", "Kotlin"],
-      title: "Lead Android Developer → Full Stack Developer",
+      title: "Data Analyst",
       logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      start: "2020",
+      end: "2022",
       description: (
         <>
           Successfully transitioned from mobile to full-stack development while
           leading distributed teams.
           <ul className="list-inside list-disc">
             <li>
-              Led frontend team at Evercast, building real-time platform
-              supporting 30+ users per room with HD streaming and collaboration
-              tools
+            Designed AWS solutions for international clients by drafting proposals and leading data discovery workshops,
+            with use cases ranging from transportation logistics, automobile IoT, to retail ML customer segmentation.
             </li>
             <li>
-              Developed offline-first Android app for DKMS, improving donor
-              registration process
+            Engineered automated data pipelines, implementing data migration, ETL scripts, and BI dashboards.
             </li>
             <li>
-              Led development teams across multiple successful client projects
+            Spearheaded international sales by leading demonstrations, pitches, and ongoing account management,
+            securing 4 presales and 3 upsales signings.
             </li>
           </ul>
         </>
       ),
     },
     {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
+      company: "HealthShare Exchange",
+      link: "https://healthshareexchange.org/",
       badges: ["On Site", "Android", "Java", "Kotlin"],
-      title: "Android Developer → Lead Android Developer",
+      title: "Data Analytics Intern",
       logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
+      start: "2017",
+      end: "2019",
       description: (
         <>
-          First Android developer, grew and led a team of 15+ engineers while
-          establishing engineering culture.
           <ul className="list-inside list-disc">
             <li>
-              Developed apps for major Polish companies including LOT, Polskie
-              Radio, and Agora
+            Developed an analytics tool using Redshift, Tableau and Javascript, enabling analysis of city-wide hospital data.
             </li>
-            <li>Built and mentored high-performing mobile development team</li>
+            <li>Drafted community health and hospital readmission reports for the City of Philadelphia with CTAS SQL queries.</li>
           </ul>
         </>
       ),
     },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: ["On Site", "C/C++", "LTE", "Agile"],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description:
-        "Developed software for LTE base stations at enterprise scale, gaining strong fundamentals in software architecture, testing practices, and cross-team collaboration.",
-    },
+    
   ],
   skills: [
     "React/Next.js/Remix",
