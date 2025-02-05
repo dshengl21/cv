@@ -58,7 +58,7 @@ export const RESUME_DATA = {
     {
       company: "University of Pennsylvania",
       link: "",
-      badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
+      badges: ["Hybrid", "Solutions Architecture", "Python", "Java"],
       title: "IT Solutions Contractor",
       logo: ConsultlyLogo,
       start: "2023",
@@ -87,12 +87,9 @@ export const RESUME_DATA = {
       company: "PurpleLab",
       link: "https://purplelab.com",
       badges: [
-        "Remote",
-        "React",
-        "TypeScript",
-        "Node.js",
-        "GraphQL",
-        "Tailwind CSS",
+        "SQL",
+        "Python",
+        "GCP",
       ],
       title: "Data Engineer",
       logo: ParabolLogo,
@@ -112,7 +109,7 @@ export const RESUME_DATA = {
     {
       company: "eCloudvalley",
       link: "https://www.ecloudvalley.com/en",
-      badges: ["Remote", "React", "TypeScript", "Node.js", "Android", "Kotlin"],
+      badges: ["On Site", "Solutions Architecture", "Python", "SQL", "AWS", "Business Development",],
       title: "Data Analyst",
       logo: ClevertechLogo,
       start: "2020",
@@ -140,7 +137,7 @@ export const RESUME_DATA = {
     {
       company: "HealthShare Exchange",
       link: "https://healthshareexchange.org/",
-      badges: ["On Site", "Android", "Java", "Kotlin"],
+      badges: ["On Site", "SQL", "Tableau", "Javascript","AWS Redshift"],
       title: "Data Analytics Intern",
       logo: JojoMobileLogo,
       start: "2017",
@@ -159,17 +156,14 @@ export const RESUME_DATA = {
     
   ],
   skills: [
-    "React/Next.js/Remix",
-    "TypeScript",
-    "Tailwind CSS",
-    "Design Systems",
-    "WebRTC",
-    "WebSockets",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "System Architecture",
-    "Remote Team Leadership",
+    "AWS/Cloud",
+    "Data Pipelines",
+    "Python/SQL",
+    "ETL",
+    "Tableau/Quicksight",
+    "Systems Design",
+    "Account Management",
+    "Solutions Presales",
   ],
   projects: [
     {
