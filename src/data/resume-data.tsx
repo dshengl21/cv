@@ -14,7 +14,7 @@ export const RESUME_DATA = {
   location: "Phladelphia, PA, USA",
   locationLink: "https://www.google.com/maps/place/Philadelphia",
   about:
-    "Hard worker. Always working, always hard.",
+    "Data Analysts, Cloud Specialist, Technical Consultant",
   summary: (
     <>
       CLOUD ARCHITECT with extensive experience designing and implementing cloud-based solutions, data pipelines,
@@ -24,7 +24,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/Profile.JPEG",
-  personalWebsiteUrl: "https://jarocki.me",
+  // personalWebsiteUrl: "",
   contact: {
     email: "danielshenglien@gmail.com",
     tel: "+6463770027",
@@ -59,25 +59,25 @@ export const RESUME_DATA = {
       company: "University of Pennsylvania",
       // link: "https://film.io",
       badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
-      title: "Software Architect",
+      title: "IT Solutions Contractor",
       logo: ConsultlyLogo,
-      start: "2024",
-      end: null,
+      start: "2023",
+      end: 2024,
       description: (
         <>
-          Leading technical architecture of a blockchain-based film funding
-          platform.
+          Delivered IT solutions for the Penn Smart Aviary.
           <ul className="list-inside list-disc">
             <li>
-              Architecting migration from CRA to Next.js for improved
-              performance, SEO, and DX
+            Conducted systems analysis to transform requirements into technical
+            implementations.
             </li>
             <li>
-              Established release process enabling faster deployments and
-              reliable rollbacks
+            Developed an automated IoT data pipeline by configuring data collection in Java on a RFID device and data
+            processing and exporting in Python.
             </li>
             <li>
-              Implementing system-wide monitoring and security improvements
+            Implemented an archival data pipeline from S3 Glacier by configuring an on-prem Linux server for staging, bash
+            scripts for retrieval, and a GUI-based Python app for final extraction and customization.
             </li>
           </ul>
         </>
