@@ -23,8 +23,8 @@ export const RESUME_DATA = {
       at delivering technical demonstrations, proposals, and translating client needs into actionable technical strategies.
     </>
   ),
-  avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/Profile.JPEG",
-  // personalWebsiteUrl: "",
+  avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/Profile_square.JPEG",
+  personalWebsiteUrl: "https://www.shenglien.com",
   contact: {
     email: "danielshenglien@gmail.com",
     tel: "+6463770027",
