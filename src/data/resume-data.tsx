@@ -109,7 +109,7 @@ export const RESUME_DATA = {
     {
       company: "eCloudvalley",
       link: "https://www.ecloudvalley.com/en",
-      badges: ["On Site", "Solutions Architecture", "Python", "SQL", "AWS", "Business Development",],
+      badges: ["On Site", "Systems Design", "Python", "SQL", "AWS", "Presales",],
       title: "Data Analyst",
       logo: ClevertechLogo,
       start: "2020",
@@ -167,14 +167,14 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "1",
-      techStack: ["TypeScript", "Next.js", "Browser Extension", "PostgreSQL"],
+      title: "Atlas Technology Website",
+      techStack: ["Web Dev", "AWS", "Javascript"],
       description:
-        "Browser extension for debugging web applications. Includes taking screenshots, screen recording, E2E tests generation and generating bug reports",
+        "Website for a Web3 technology company based in Taiwan. Uses AWS SAM to deploy Lambda to store contact forms in DynamoDB and send emails via SES.",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "",
+        label: "atlas-tech.dev",
+        href: "https://www.atlas-tech.dev/",
       },
     },
   ],
