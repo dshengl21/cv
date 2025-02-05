@@ -39,25 +39,25 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/sheng-lien/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
-      },
+      // {
+      //   name: "X",
+      //   url: "https://x.com/BartoszJarocki",
+      //   icon: XIcon,
+      // },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Temple University",
+      degree: "Bachelor's Degree in Management Information Systems",
+      start: "2014",
+      end: "2019",
     },
   ],
   work: [
     {
-      company: "Film.io",
-      link: "https://film.io",
+      company: "University of Pennsylvania",
+      // link: "https://film.io",
       badges: ["Remote", "React", "Next.js", "TypeScript", "Node.js"],
       title: "Software Architect",
       logo: ConsultlyLogo,
