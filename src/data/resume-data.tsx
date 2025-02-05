@@ -17,13 +17,13 @@ export const RESUME_DATA = {
     "Hard worker. Always working, always hard.",
   summary: (
     <>
-CLOUD ARCHITECT with extensive experience designing and implementing cloud-based solutions, data pipelines,
-and analytical platforms, ensuring alignment with business goals and technical best practices. Dynamic professional
-with proven expertise in data engineering, visualization, and automation across industries. Strategic leader skilled
-at delivering technical demonstrations, proposals, and translating client needs into actionable technical strategies.
+      CLOUD ARCHITECT with extensive experience designing and implementing cloud-based solutions, data pipelines,
+      and analytical platforms, ensuring alignment with business goals and technical best practices. Dynamic professional
+      with proven expertise in data engineering, visualization, and automation across industries. Strategic leader skilled
+      at delivering technical demonstrations, proposals, and translating client needs into actionable technical strategies.
     </>
   ),
-  avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/C1D11BF9-D41B-4FAE-9FFC-C599E4D26A3C.jpg",
+  avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/Profile.JPEG",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "danielshenglien@gmail.com",
@@ -36,7 +36,7 @@ at delivering technical demonstrations, proposals, and translating client needs 
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/sheng-lien/",
         icon: LinkedInIcon,
       },
       {
