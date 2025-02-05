@@ -17,9 +17,10 @@ export const RESUME_DATA = {
     "Hard worker. Always working, always hard.",
   summary: (
     <>
-      Cloud infrastructure, data engineering, data visualizations, contractor.
-      Punches, kicks, elbows, knees, spinning back fists, occasionally defends takedowns.
-      Give me money and I will build websites, automated cloud data pipelines, and physically beat your competition.
+CLOUD ARCHITECT with extensive experience designing and implementing cloud-based solutions, data pipelines,
+and analytical platforms, ensuring alignment with business goals and technical best practices. Dynamic professional
+with proven expertise in data engineering, visualization, and automation across industries. Strategic leader skilled
+at delivering technical demonstrations, proposals, and translating client needs into actionable technical strategies.
     </>
   ),
   avatarUrl: "https://dandanfun.s3.us-east-1.amazonaws.com/pics/C1D11BF9-D41B-4FAE-9FFC-C599E4D26A3C.jpg",
